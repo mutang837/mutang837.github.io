@@ -1,0 +1,37 @@
+/* 全局固定背景图片 */
+html {
+    /* 替换为您自己的背景图片路径 */
+    background-image: url('/img/bg/img313.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/* 为了让内容区域透明，露出背景图，需要调整主要板块的背景色 */
+body {
+    background-color: transparent !important;
+}
+
+/* 主体内容卡片区（白色/深色面板）改为半透明或完全透明，具体看喜好 */
+.board {
+    background-color: rgba(255, 255, 255, 0.85); /* 亮色模式下半透白 */
+}
+
+/* 暗色模式下的卡片透明效果 */
+html[data-user-color-scheme="dark"] .board {
+    background-color: rgba(37, 45, 56, 0.85); /* 暗色半透面板 */
+}
+
+/* 其他可能不透明的元素，也可以适当调整，例如页脚 */
+footer {
+    background-color: transparent !important;
+}
+
+/* 导航栏也可以半透（保留毛玻璃感） */
+.navbar {
+    background-color: rgba(47, 65, 84, 0.9) !important;
+}
+html[data-user-color-scheme="dark"] .navbar {
+    background-color: rgba(31, 49, 68, 0.9) !important;
+}
