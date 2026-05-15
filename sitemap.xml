@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mutang837.github.io/guestbook/index.html</loc>
+    
+    <lastmod>2026-05-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://mutang837.github.io/opt-images/dimensions.json</loc>
+    
+    <lastmod>2026-05-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mutang837.github.io/about/index.html</loc>
     
     <lastmod>2026-05-15</lastmod>
     
@@ -39,15 +57,6 @@
   
   <url>
     <loc>https://mutang837.github.io/posts/4a17b156.html</loc>
-    
-    <lastmod>2026-05-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://mutang837.github.io/about/index.html</loc>
     
     <lastmod>2026-05-14</lastmod>
     
