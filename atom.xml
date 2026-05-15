@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>江枫渔火</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <id>https://mutang837.github.io/</id>
+  <link href="https://mutang837.github.io/" rel="alternate"/>
+  <link href="https://mutang837.github.io/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, 江枫渔火</rights>
+  <title>江枫线</title>
+  <updated>2026-05-14T15:40:51.502Z</updated>
+  <entry>
+    <author>
+      <name>江枫渔火</name>
+    </author>
+    <category term="公告" scheme="https://mutang837.github.io/tags/%E5%85%AC%E5%91%8A/"/>
+    <content>
+      <![CDATA[<p>2026.5.14<br>启用了一些插件，让网站更快了，更新了评论功能。</p>]]>
+    </content>
+    <id>https://mutang837.github.io/posts/5a717bf0.html</id>
+    <link href="https://mutang837.github.io/posts/5a717bf0.html"/>
+    <published>2026-05-14T15:36:17.000Z</published>
+    <summary>
+      <![CDATA[<p>2026.5.14<br>启用了一些插件，让网站更快了，更新了评论功能。</p>]]>
+    </summary>
+    <title>更新日志</title>
+    <updated>2026-05-14T15:40:51.502Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>江枫渔火</name>
+    </author>
+    <content>
+      <![CDATA[<p>今天是建站的第2天，昨天晚上11点多做了一个大概，今天上午将他完善了一下，现在建网站的门槛真的低，我们真的生在了一个好时候啊！<br>虽然这不是这个网站的第一篇博文，但是这是我写的第一个正式的博文，前两个用来测试了。</p><p>我是怎么想建一个个人博客的呢？</p><p>这就要说起我的一个高中同学，他有一个 <a href="https://fanshi233.github.io/">博客</a> 让我好生羡慕，但是随着我自己的阅历和经验的增加，我发现那其实不是他自己造的，而是hexo + fluid + GitHub Pages ，我觉得自己还是挺厉害的，没有请教他，自己摸索出来了，之前写公众号用过markdown，所以我对这个还是比较熟练的。</p><p>不过我的技术力还是差点儿，<del>毕竟我是一个文科生啊</del>，不过我还是会继续努力的，学无止境，泛海行舟！</p>]]>
+    </content>
+    <id>https://mutang837.github.io/posts/d0725f51.html</id>
+    <link href="https://mutang837.github.io/posts/d0725f51.html"/>
+    <published>2026-05-14T04:35:52.135Z</published>
+    <summary>
+      <![CDATA[<p>今天是建站的第2天，昨天晚上11点多做了一个大概，今天上午将他完善了一下，现在建网站的门槛真的低，我们真的生在了一个好时候啊！<br>虽然这不是这个网站的第一篇博文，但是这是我写的第一个正式的博文，前两个用来测试了。</p>
+<p>我是怎么想建一个个人博客的呢？</p>
+<]]>
+    </summary>
+    <title>建站感言</title>
+    <updated>2026-05-14T15:31:26.647Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>江枫渔火</name>
+    </author>
+    <id>https://mutang837.github.io/posts/71e1edc3.html</id>
+    <link href="https://mutang837.github.io/posts/71e1edc3.html"/>
+    <published>2026-05-13T15:01:28.000Z</published>
+    <title>江枫线</title>
+    <updated>2026-05-14T15:31:26.653Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>江枫渔火</name>
+    </author>
+    <content>
+      <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure><div class="code-wrapper"><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre></div></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure><div class="code-wrapper"><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo server<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre></div></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure><div class="code-wrapper"><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo generate<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre></div></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure><div class="code-wrapper"><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre></div></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]>
+    </content>
+    <id>https://mutang837.github.io/posts/4a17b156.html</id>
+    <link href="https://mutang837.github.io/posts/4a17b156.html"/>
+    <published>2026-05-13T14:14:15.848Z</published>
+    <summary>
+      <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for]]>
+    </summary>
+    <title>Hello World</title>
+    <updated>2026-05-14T15:31:26.642Z</updated>
+  </entry>
+</feed>
