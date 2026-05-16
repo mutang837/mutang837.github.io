@@ -34,10 +34,3 @@ else if (path === '/archives/') {
 }
 然后在 CSS 中添加 body.page-archive 的背景图即可。*/
 
-// 强制显示 Busuanzi 统计（解决自动显示失败的问题）
-document.addEventListener('DOMContentLoaded', function() {
-    var uv = document.getElementById('busuanzi_container_site_uv');
-    var pv = document.getElementById('busuanzi_container_site_pv');
-    if (uv) uv.style.display = 'inline';
-    if (pv) pv.style.display = 'inline';
-});
