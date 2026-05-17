@@ -10,41 +10,52 @@
   <rights>All rights reserved 2026, 江枫渔火</rights>
   <subtitle>我的博客</subtitle>
   <title>江枫线</title>
-  <updated>2026-05-17T01:02:52.536Z</updated>
+  <updated>2026-05-17T02:42:49.782Z</updated>
   <entry>
     <author>
       <name>江枫渔火</name>
     </author>
+    <category term="日常随笔" scheme="https://mutang837.github.io/categories/%E6%97%A5%E5%B8%B8%E9%9A%8F%E7%AC%94/"/>
     <category term="日记" scheme="https://mutang837.github.io/tags/%E6%97%A5%E8%AE%B0/"/>
+    <category term="痛车" scheme="https://mutang837.github.io/tags/%E7%97%9B%E8%BD%A6/"/>
+    <category term="LoveLive" scheme="https://mutang837.github.io/tags/LoveLive/"/>
+    <category term="矢泽妮可" scheme="https://mutang837.github.io/tags/%E7%9F%A2%E6%B3%BD%E5%A6%AE%E5%8F%AF/"/>
+    <category term="生活" scheme="https://mutang837.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="二次元" scheme="https://mutang837.github.io/tags/%E4%BA%8C%E6%AC%A1%E5%85%83/"/>
     <content>
-      <![CDATA[<p>今天在路上看到了一个贴着矢泽妮可的车，哇，还是老资历<br><img src="/img/post/IMG20260515190141.webp" class="no-lightbox" alt="nico"><br><del>妮头车</del></p>]]>
+      <![CDATA[<p>今天在路上看到了一个贴着矢泽妮可的车，哇，还是老资历<br><img src="https://mutang837.github.io/img/post/IMG20260515190141.webp" alt="nico"><br><del>妮头车</del></p>]]>
     </content>
     <id>https://mutang837.github.io/posts/4e8ee1a4.html</id>
     <link href="https://mutang837.github.io/posts/4e8ee1a4.html"/>
     <published>2026-05-15T15:30:07.000Z</published>
     <summary>今天在路上看到了一个贴着矢泽妮可的车，哇，还是老资历</summary>
     <title>偶遇妮可痛车</title>
-    <updated>2026-05-17T01:02:52.536Z</updated>
+    <updated>2026-05-17T02:42:49.782Z</updated>
   </entry>
   <entry>
     <author>
       <name>江枫渔火</name>
     </author>
+    <category term="站务公告" scheme="https://mutang837.github.io/categories/%E7%AB%99%E5%8A%A1%E5%85%AC%E5%91%8A/"/>
     <category term="公告" scheme="https://mutang837.github.io/tags/%E5%85%AC%E5%91%8A/"/>
+    <category term="更新日志" scheme="https://mutang837.github.io/tags/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
     <content>
-      <![CDATA[<h1 id="2026-5-14"><a href="#2026-5-14" class="headerlink" title="2026.5.14"></a>2026.5.14</h1><p>启用了一些插件，让网站更快了，更新了评论功能。</p><h1 id="2026-5-15"><a href="#2026-5-15" class="headerlink" title="2026.5.15"></a>2026.5.15</h1><p>进行了一些重大更新：<br>1、更多背景，banner图片透明<br>2、添加rss订阅<br>3、优化文章观看及网站访问统计<br>4、增加点赞功能<br>5、增加网站运行时长<br>6、更改weline配色并修复无法使用的bug<br>7、增加留言区<br>8、增加博客描述<br><del>注：网站已经建设完毕，接下来专注于搬运文章。</del></p><h1 id="2026-5-16"><a href="#2026-5-16" class="headerlink" title="2026.5.16"></a>2026.5.16</h1><p>1、修改了评论区配色<br>2、修改页脚过高的bug<br>3、将busuanzi换成了umima<br>4、增加了cf的dev域名</p>]]>
+      <![CDATA[<h1 id="2026-5-14"><a href="#2026-5-14" class="headerlink" title="2026.5.14"></a>2026.5.14</h1><p>启用了一些插件，让网站更快了，更新了评论功能。</p><h1 id="2026-5-15"><a href="#2026-5-15" class="headerlink" title="2026.5.15"></a>2026.5.15</h1><p>进行了一些重大更新：<br>1、更多背景，banner图片透明<br>2、添加rss订阅<br>3、优化文章观看及网站访问统计<br>4、增加点赞功能<br>5、增加网站运行时长<br>6、更改weline配色并修复无法使用的bug<br>7、增加留言区<br>8、增加博客描述<br><del>注：网站已经建设完毕，接下来专注于搬运文章。</del></p><h1 id="2026-5-16"><a href="#2026-5-16" class="headerlink" title="2026.5.16"></a>2026.5.16</h1><p>1、修改了评论区配色<br>2、修改页脚过高的bug<br>3、将busuanzi换成了umima<br>4、增加了cf的dev域名</p><h1 id="2026-5-17"><a href="#2026-5-17" class="headerlink" title="2026.5.17"></a>2026.5.17</h1><p>1、解决了图片文章不能显示的bug<br>2、优化了文章的标签和分类</p>]]>
     </content>
     <id>https://mutang837.github.io/posts/5a717bf0.html</id>
     <link href="https://mutang837.github.io/posts/5a717bf0.html"/>
     <published>2026-05-14T15:36:17.000Z</published>
     <summary>这是本博客的更新状况</summary>
     <title>更新日志</title>
-    <updated>2026-05-16T15:24:26.685Z</updated>
+    <updated>2026-05-17T02:42:51.173Z</updated>
   </entry>
   <entry>
     <author>
       <name>江枫渔火</name>
     </author>
+    <category term="日常随笔" scheme="https://mutang837.github.io/categories/%E6%97%A5%E5%B8%B8%E9%9A%8F%E7%AC%94/"/>
+    <category term="建站" scheme="https://mutang837.github.io/tags/%E5%BB%BA%E7%AB%99/"/>
+    <category term="感言" scheme="https://mutang837.github.io/tags/%E6%84%9F%E8%A8%80/"/>
     <content>
       <![CDATA[<p>今天是建站的第2天，昨天晚上11点多做了一个大概，今天上午将他完善了一下，现在建网站的门槛真的低，我们真的生在了一个好时候啊！<br>虽然这不是这个网站的第一篇博文，但是这是我写的第一个正式的博文，前两个用来测试了。</p><p>我是怎么想建一个个人博客的呢？</p><p>这就要说起我的一个高中同学，他有一个 <a href="https://fanshi233.github.io/">博客</a> 让我好生羡慕，但是随着我自己的阅历和经验的增加，我发现那其实不是他自己造的，而是hexo + fluid + GitHub Pages ，我觉得自己还是挺厉害的，没有请教他，自己摸索出来了，之前写公众号用过markdown，所以我对这个还是比较熟练的。</p><p>不过我的技术力还是差点儿，<del>毕竟我是一个文科生啊</del>，不过我还是会继续努力的，学无止境，泛海行舟！</p>]]>
     </content>
@@ -53,7 +64,7 @@
     <published>2026-05-14T04:35:52.000Z</published>
     <summary>既然大家都要写，那我也写一个吧!</summary>
     <title>建站感言</title>
-    <updated>2026-05-16T00:34:01.228Z</updated>
+    <updated>2026-05-17T02:28:48.790Z</updated>
   </entry>
   <entry>
     <author>
