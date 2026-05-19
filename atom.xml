@@ -10,7 +10,7 @@
   <rights>All rights reserved 2026, 江枫渔火</rights>
   <subtitle>我的博客</subtitle>
   <title>江枫线</title>
-  <updated>2026-05-17T14:27:30.716Z</updated>
+  <updated>2026-05-17T14:28:35.010Z</updated>
   <entry>
     <author>
       <name>江枫渔火</name>
@@ -33,7 +33,7 @@
 <p>那是因为那些文章是我以前在别的地方写的，只不过我现在都搬过来了，具体的时间我就以]]>
     </summary>
     <title>关于文章时间问题</title>
-    <updated>2026-05-17T14:27:30.716Z</updated>
+    <updated>2026-05-17T14:28:35.010Z</updated>
   </entry>
   <entry>
     <author>
@@ -118,14 +118,14 @@
     <category term="功能更新" scheme="https://mutang837.github.io/tags/%E5%8A%9F%E8%83%BD%E6%9B%B4%E6%96%B0/"/>
     <category term="插件配置" scheme="https://mutang837.github.io/tags/%E6%8F%92%E4%BB%B6%E9%85%8D%E7%BD%AE/"/>
     <content>
-      <![CDATA[<h1 id="2026-5-14"><a href="#2026-5-14" class="headerlink" title="2026.5.14"></a>2026.5.14</h1><p>启用了一些插件，让网站更快了，更新了评论功能。</p><h1 id="2026-5-15"><a href="#2026-5-15" class="headerlink" title="2026.5.15"></a>2026.5.15</h1><p>进行了一些重大更新：<br>1、更多背景，banner图片透明<br>2、添加rss订阅<br>3、优化文章观看及网站访问统计<br>4、增加点赞功能<br>5、增加网站运行时长<br>6、更改weline配色并修复无法使用的bug<br>7、增加留言区<br>8、增加博客描述<br><del>注：网站已经建设完毕，接下来专注于搬运文章。</del></p><h1 id="2026-5-16"><a href="#2026-5-16" class="headerlink" title="2026.5.16"></a>2026.5.16</h1><p>1、修改了评论区配色<br>2、修改页脚过高的bug<br>3、将busuanzi换成了umima<br>4、增加了cf的dev域名</p><h1 id="2026-5-17"><a href="#2026-5-17" class="headerlink" title="2026.5.17"></a>2026.5.17</h1><p>1、解决了图片文章不能显示的bug<br>2、新增了文章的标签和分类<br>3、移除了留言区<del>(其实是修不好了)</del><br>4、将umima改为了vercount<del>(同样是修不好了)</del><br>5、大改主题颜色，更好看了(雾)<br>注：这次真的建设完毕了!</p>]]>
+      <![CDATA[<h1 id="2026-5-14"><a href="#2026-5-14" class="headerlink" title="2026.5.14"></a>2026.5.14</h1><p>启用了一些插件，让网站更快了，更新了评论功能。</p><h1 id="2026-5-15"><a href="#2026-5-15" class="headerlink" title="2026.5.15"></a>2026.5.15</h1><p>进行了一些重大更新：<br>1、更多背景，banner图片透明<br>2、添加rss订阅<br>3、优化文章观看及网站访问统计<br>4、增加点赞功能<br>5、增加网站运行时长<br>6、更改weline配色并修复无法使用的bug<br>7、增加留言区<br>8、增加博客描述<br><del>注：网站已经建设完毕，接下来专注于搬运文章。</del></p><h1 id="2026-5-16"><a href="#2026-5-16" class="headerlink" title="2026.5.16"></a>2026.5.16</h1><p>1、修改了评论区配色<br>2、修改页脚过高的bug<br>3、将busuanzi换成了umima<br>4、增加了cf的dev域名</p><h1 id="2026-5-17"><a href="#2026-5-17" class="headerlink" title="2026.5.17"></a>2026.5.17</h1><p>1、解决了图片文章不能显示的bug<br>2、新增了文章的标签和分类<br>3、移除了留言区<del>(其实是修不好了)</del><br>4、将umima改为了vercount<del>(同样是修不好了)</del><br>5、大改主题颜色，更好看了(雾)<br>注：这次真的建设完毕了!</p><h1 id="2026-5-18"><a href="#2026-5-18" class="headerlink" title="2026.5.18"></a>2026.5.18</h1><p>1、把waline换成了twikoo</p>]]>
     </content>
     <id>https://mutang837.github.io/posts/5a717bf0.html</id>
     <link href="https://mutang837.github.io/posts/5a717bf0.html"/>
     <published>2026-05-14T15:36:17.000Z</published>
     <summary>这是本博客的更新状况</summary>
     <title>更新日志</title>
-    <updated>2026-05-17T14:24:56.224Z</updated>
+    <updated>2026-05-18T09:18:25.648Z</updated>
   </entry>
   <entry>
     <author>
