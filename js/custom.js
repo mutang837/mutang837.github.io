@@ -14,9 +14,9 @@
     var body = document.body;
 
     // ========== 规则1：首页（根路径或 /index.html） ==========
-    if (path === '/' || path === '/index.html') {
-        body.classList.add('page-home');
-    }
+    if (path === '/' || path === '/index.html' || path.indexOf('/page/') === 0) {
+    body.classList.add('page-home');
+}
     // ========== 规则2：关于页（路径以 /about/ 开头或就是 /about/） ==========
     else if (path === '/about/') {
         body.classList.add('page-about');
