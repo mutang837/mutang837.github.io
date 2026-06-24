@@ -20,19 +20,19 @@
     
     <tags>
       
-      <tag>galgame</tag>
-      
       <tag>生活随笔</tag>
       
       <tag>焦虑</tag>
+      
+      <tag>galgame</tag>
+      
+      <tag>读书</tag>
       
       <tag>高考</tag>
       
       <tag>盛夏</tag>
       
       <tag>逃避</tag>
-      
-      <tag>读书</tag>
       
       <tag>晒伤</tag>
       
@@ -153,8 +153,6 @@
       
       <tag>galgame</tag>
       
-      <tag>读书</tag>
-      
       <tag>公众号运营</tag>
       
       <tag>创作心路</tag>
@@ -168,6 +166,8 @@
       <tag>Python</tag>
       
       <tag>费曼学习法</tag>
+      
+      <tag>读书</tag>
       
       <tag>写作</tag>
       
@@ -303,7 +303,7 @@
     <link href="/posts/5a717bf0.html"/>
     <url>/posts/5a717bf0.html</url>
     
-    <content type="html"><![CDATA[<h1 id="2026-5-14"><a href="#2026-5-14" class="headerlink" title="2026.5.14"></a>2026.5.14</h1><p>启用了一些插件，让网站更快了，更新了评论功能。</p><h1 id="2026-5-15"><a href="#2026-5-15" class="headerlink" title="2026.5.15"></a>2026.5.15</h1><p>进行了一些重大更新：<br>1、更多背景，banner图片透明<br>2、添加rss订阅<br>3、优化文章观看及网站访问统计<br>4、增加点赞功能<br>5、增加网站运行时长<br>6、更改weline配色并修复无法使用的bug<br>7、增加留言区<br>8、增加博客描述<br><del>注：网站已经建设完毕，接下来专注于搬运文章。</del></p><h1 id="2026-5-16"><a href="#2026-5-16" class="headerlink" title="2026.5.16"></a>2026.5.16</h1><p>1、修改了评论区配色<br>2、修改页脚过高的bug<br>3、将busuanzi换成了umima<br>4、增加了cf的dev域名</p><h1 id="2026-5-17"><a href="#2026-5-17" class="headerlink" title="2026.5.17"></a>2026.5.17</h1><p>1、解决了图片文章不能显示的bug<br>2、新增了文章的标签和分类<br>3、移除了留言区<del>(其实是修不好了)</del><br>4、将umima改为了vercount<del>(同样是修不好了)</del><br>5、大改主题颜色，更好看了(雾)<br>注：这次真的建设完毕了!</p><h1 id="2026-5-18"><a href="#2026-5-18" class="headerlink" title="2026.5.18"></a>2026.5.18</h1><p>把waline换成了twikoo</p><h1 id="2026-5-19"><a href="#2026-5-19" class="headerlink" title="2026.5.19"></a>2026.5.19</h1><p>更新了文章的摘录和标签</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="2026-5-14"><a href="#2026-5-14" class="headerlink" title="2026.5.14"></a>2026.5.14</h1><p>启用了一些插件，让网站更快了，更新了评论功能。</p><h1 id="2026-5-15"><a href="#2026-5-15" class="headerlink" title="2026.5.15"></a>2026.5.15</h1><p>进行了一些重大更新：<br>1、更多背景，banner图片透明<br>2、添加rss订阅<br>3、优化文章观看及网站访问统计<br>4、增加点赞功能<br>5、增加网站运行时长<br>6、更改weline配色并修复无法使用的bug<br>7、增加留言区<br>8、增加博客描述<br><del>注：网站已经建设完毕，接下来专注于搬运文章。</del></p><h1 id="2026-5-16"><a href="#2026-5-16" class="headerlink" title="2026.5.16"></a>2026.5.16</h1><p>1、修改了评论区配色<br>2、修改页脚过高的bug<br>3、将busuanzi换成了umima<br>4、增加了cf的dev域名</p><h1 id="2026-5-17"><a href="#2026-5-17" class="headerlink" title="2026.5.17"></a>2026.5.17</h1><p>1、解决了图片文章不能显示的bug<br>2、新增了文章的标签和分类<br>3、移除了留言区<del>(其实是修不好了)</del><br>4、将umima改为了vercount<del>(同样是修不好了)</del><br>5、大改主题颜色，更好看了(雾)<br>注：这次真的建设完毕了!</p><h1 id="2026-5-18"><a href="#2026-5-18" class="headerlink" title="2026.5.18"></a>2026.5.18</h1><p>把waline换成了twikoo</p><h1 id="2026-5-19"><a href="#2026-5-19" class="headerlink" title="2026.5.19"></a>2026.5.19</h1><p>更新了文章的摘录和标签</p><h1 id="2026-6-24"><a href="#2026-6-24" class="headerlink" title="2026.6.24"></a>2026.6.24</h1><p>修改了关于页的评论系统（我以为没有bug了）</p>]]></content>
     
     
     <categories>
@@ -794,9 +794,11 @@
       
       <tag>存在主义</tag>
       
+      <tag>加缪</tag>
+      
       <tag>西西弗神话</tag>
       
-      <tag>加缪</tag>
+      <tag>信仰</tag>
       
       <tag>哲学自杀</tag>
       
@@ -813,8 +815,6 @@
       <tag>西西弗斯</tag>
       
       <tag>精英主义</tag>
-      
-      <tag>信仰</tag>
       
     </tags>
     
@@ -841,9 +841,9 @@
       
       <tag>公众号文章</tag>
       
-      <tag>回忆</tag>
-      
       <tag>散文</tag>
+      
+      <tag>回忆</tag>
       
       <tag>县城生活</tag>
       
@@ -980,15 +980,15 @@
       
       <tag>公众号文章</tag>
       
-      <tag>荒诞</tag>
-      
       <tag>焦虑</tag>
+      
+      <tag>荒诞</tag>
       
       <tag>存在主义</tag>
       
-      <tag>西西弗神话</tag>
-      
       <tag>加缪</tag>
+      
+      <tag>西西弗神话</tag>
       
       <tag>虚无</tag>
       
@@ -1408,11 +1408,9 @@
       
       <tag>存在主义</tag>
       
-      <tag>西西弗神话</tag>
+      <tag>局外人</tag>
       
       <tag>加缪</tag>
-      
-      <tag>局外人</tag>
       
       <tag>思想罪</tag>
       
@@ -1427,6 +1425,8 @@
       <tag>标签化</tag>
       
       <tag>共情绑架</tag>
+      
+      <tag>西西弗神话</tag>
       
       <tag>请判我思想有罪</tag>
       
@@ -1463,8 +1463,6 @@
       
       <tag>读书笔记</tag>
       
-      <tag>信仰</tag>
-      
       <tag>如何阅读一本书</tag>
       
       <tag>阅读方法</tag>
@@ -1484,6 +1482,8 @@
       <tag>应试教育</tag>
       
       <tag>心灵成长</tag>
+      
+      <tag>信仰</tag>
       
     </tags>
     
@@ -1976,9 +1976,9 @@
       
       <tag>成长</tag>
       
-      <tag>虚构</tag>
-      
       <tag>回忆</tag>
+      
+      <tag>虚构</tag>
       
       <tag>告别</tag>
       
