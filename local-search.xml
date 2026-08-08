@@ -2219,6 +2219,14 @@
       
       <tag>图解TCP/IP</tag>
       
+      <tag>IP地址</tag>
+      
+      <tag>MAC地址</tag>
+      
+      <tag>网卡</tag>
+      
+      <tag>路由器</tag>
+      
       <tag>编织世界第一季</tag>
       
       <tag>网络设备</tag>
@@ -2229,8 +2237,6 @@
       
       <tag>吞吐量</tag>
       
-      <tag>网卡</tag>
-      
       <tag>中继器</tag>
       
       <tag>集线器</tag>
@@ -2238,8 +2244,6 @@
       <tag>网桥</tag>
       
       <tag>交换集线器</tag>
-      
-      <tag>路由器</tag>
       
       <tag>三层交换机</tag>
       
@@ -2250,10 +2254,6 @@
       <tag>代理服务器</tag>
       
       <tag>防火墙</tag>
-      
-      <tag>MAC地址</tag>
-      
-      <tag>IP地址</tag>
       
       <tag>CRC</tag>
       
@@ -2403,17 +2403,11 @@
       
       <tag>图解TCP/IP</tag>
       
-      <tag>编织世界第一季</tag>
-      
-      <tag>网卡</tag>
-      
-      <tag>路由器</tag>
-      
-      <tag>MAC地址</tag>
+      <tag>网络地址</tag>
       
       <tag>IP地址</tag>
       
-      <tag>网络地址</tag>
+      <tag>MAC地址</tag>
       
       <tag>寻址</tag>
       
@@ -2423,7 +2417,11 @@
       
       <tag>聚合性</tag>
       
+      <tag>网卡</tag>
+      
       <tag>交换机</tag>
+      
+      <tag>路由器</tag>
       
       <tag>地址转发表</tag>
       
@@ -2434,6 +2432,8 @@
       <tag>默认网关</tag>
       
       <tag>OSI参考模型</tag>
+      
+      <tag>编织世界第一季</tag>
       
     </tags>
     
@@ -2472,9 +2472,9 @@
       
       <tag>图解TCP/IP</tag>
       
-      <tag>编织世界第一季</tag>
-      
       <tag>广播</tag>
+      
+      <tag>编织世界第一季</tag>
       
       <tag>网络传输方式</tag>
       
@@ -2531,13 +2531,13 @@
       
       <tag>图解TCP/IP</tag>
       
-      <tag>编织世界第一季</tag>
+      <tag>IP地址</tag>
       
       <tag>MAC地址</tag>
       
-      <tag>IP地址</tag>
-      
       <tag>OSI参考模型</tag>
+      
+      <tag>编织世界第一季</tag>
       
       <tag>OSI协议</tag>
       
@@ -2819,6 +2819,8 @@
       
       <tag>编织世界第一季</tag>
       
+      <tag>互联网发展</tag>
+      
       <tag>网络简史</tag>
       
       <tag>广域网</tag>
@@ -2826,8 +2828,6 @@
       <tag>局域网</tag>
       
       <tag>城域网</tag>
-      
-      <tag>互联网发展</tag>
       
       <tag>知识科普</tag>
       
