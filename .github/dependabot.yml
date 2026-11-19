@@ -2,6 +2,8 @@ version: 2
 updates:
 - package-ecosystem: npm
   directory: "/"
+  # 依赖清单在 source 分支，main 分支只放构建产物
+  target-branch: "source"
   schedule:
-    interval: daily
-  open-pull-requests-limit: 20
+    interval: weekly
+  open-pull-requests-limit: 5

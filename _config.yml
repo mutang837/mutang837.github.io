@@ -146,16 +146,6 @@ abbrlink:
   alg: crc32   # 算法：crc32 或 crc16
   rep: hex     # 输出进制：dec（十进制）或 hex（十六进制）
 
-symbols_count_time:
-  symbols: true
-  time: true
-  total_symbols: true
-  total_time: true
-  exclude_codeblock: false
-  awl: 4
-  wpm: 275
-  suffix: "mins."
-
 # RSS Feed Settings
 feed:
   enable: true
