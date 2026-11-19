@@ -1141,7 +1141,7 @@ static_prefix:
 
   disqusjs: https://lib.baomitu.com/disqusjs/1.3.0/
 
-  twikoo: https://lib.baomitu.com/twikoo/1.7.9/
+  twikoo: https://registry.npmmirror.com/twikoo/1.7.9/files/dist/
 
   discuss: https://lib.baomitu.com/discuss/1.2.1/
 
